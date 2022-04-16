@@ -1,3 +1,9 @@
+João Pedro Silva de Andrade,
+UNB - Universidade de Brasília
+Engenharia de Computação
+data prevista para formar: junho/2024
+semestre atual: 6 semestre
+
 linguagem utilizada: Ruby
 versão: 3.0.1
 Sistema Operacional Utilizado: Ubuntu 20.04 LTS
